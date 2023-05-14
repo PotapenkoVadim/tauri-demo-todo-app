@@ -1,0 +1,6 @@
+.todo-list { margin: 50px 0; }
+.todo-list__container { max-height: 225px; overflow: auto; }
+.todo-list__footer { display: flex; align-items: center; justify-content: space-between; margin: 80px 0 50px;
+  color: var(--secondary-text); border-top: 1px solid var(--gallery); padding-top: 25px;
+}
+.todo-list__button { cursor: pointer; }

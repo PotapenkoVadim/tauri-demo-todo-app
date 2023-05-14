@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap');
+
+:root {
+  --accent: #2D70FD;
+  --accent-opacity: rgba(45, 112, 253, 0.55);
+  --main-text: #001747;
+  --main-text-opacity: rgba(45, 112, 253, 0.15);
+  --disable: #8F98A8;
+  --secondary-text: #B1BACB;
+  --gallery: #EEEEEE;
+  --caribean-green: #00D8A7;
+}
+
+* { margin: 0; padding: 0; border: 0; font: inherit; vertical-align: baseline; }
+body { color: var(--main-text); font-family: 'Rubik', sans-serif; font-size: 16px; }

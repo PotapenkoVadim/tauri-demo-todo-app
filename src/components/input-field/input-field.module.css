@@ -1,0 +1,2 @@
+.field { border: 1px solid var(--gallery); padding: 7px; display: flex; border-radius: 8px; min-width: 600px; }
+.field__input { flex: 1; outline: none; margin-left: 20px; }
