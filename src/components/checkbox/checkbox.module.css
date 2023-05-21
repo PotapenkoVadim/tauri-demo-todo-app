@@ -8,6 +8,6 @@
 
 .checkbox__input:checked ~ .checkbox__label { color: var(--disable); text-decoration: line-through; }
 .checkbox__input:checked ~ .checkbox__label::after { content: ' (Done)'; color: var(--disable); text-decoration: line-through; }
-.checkbox__input:checked ~ .checkbox__container { background-image: url(../assets/ok.svg); background-repeat: no-repeat;
+.checkbox__input:checked ~ .checkbox__container { background-image: url(../../assets/ok.svg); background-repeat: no-repeat;
   background-size: cover; background-color: var(--caribean-green);
 }
